@@ -11,3 +11,6 @@
 
 * [A Lightweight Way to Handle Different Validation Situations](http://www.justinweiss.com/blog/2014/09/15/a-lightweight-way-to-handle-different-validation-situations/)
 
+* [PDF of Slides](2015-03-09-rails.mn-presentation.pdf)
+
+* [Github Repo](https://github.com/tamouse/2015-03-09-Rails.MN/)
